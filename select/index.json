@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "常緑",
+  "base_artist": "大橋ちっぽけ",
+  "createdAt": "2026-02-06T14:14:15.277247Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "常緑 - Joryoku",
+      "artist": "Ohashi Chippoke",
+      "has_synced": true,
+      "path": "select/01_常緑_-_Joryoku_Ohashi_Chippoke.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "常緑",
+      "artist": "Chippoke Ohashi",
+      "has_synced": true,
+      "path": "select/02_常緑_Chippoke_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "常緑",
+      "artist": "Chippoke Ohashi",
+      "has_synced": true,
+      "path": "select/03_常緑_Chippoke_Ohashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "常緑",
+      "artist": "大橋ちっぽけ",
+      "has_synced": false,
+      "path": "select/pl_01_常緑_大橋ちっぽけ.txt"
+    }
+  ]
+}
