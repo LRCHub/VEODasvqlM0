@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "常緑",
   "base_artist": "大橋ちっぽけ",
-  "createdAt": "2026-02-06T14:14:15.277247Z",
+  "createdAt": "2026-03-31T03:27:18.389326Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "大橋ちっぽけ",
       "has_synced": false,
       "path": "select/pl_01_常緑_大橋ちっぽけ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "常緑",
+      "artist": "大橋ちっぽけ",
+      "has_synced": true,
+      "path": "select/localdb_01_常緑_大橋ちっぽけ.lrc",
+      "repo_name": "VEODasvqlM0"
     }
   ]
 }
